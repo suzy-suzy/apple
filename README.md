@@ -6,3 +6,4 @@
 <a href="https://suzy-suzy.github.io/apple/apple04.html">apple04.html</a><br>
 <a href="https://suzy-suzy.github.io/apple/apple05.html">apple05.html</a><br>
 <a href="https://suzy-suzy.github.io/apple/apple06.html">apple06.html</a><br>
+<a href="https://suzy-suzy.github.io/apple/apple07.html">apple07.html</a><br>
